@@ -8,8 +8,8 @@
     {
         "id": 2,
         "category": "Volunteer",
-        "question": "What should I do to seem more attractive to the welfare organisation?",
-        "answer": "For each of the openings, there will be skills that are required. It is recommended that you apply for an opening that you possess the skills for. Not to worry, you can always apply for an opening, what's more important is that you're willing to step out of your comfort zone and learn new things!"
+        "question": "What should I do if I fall sick before the start of volunteering?",
+        "answer": "Please inform the respective organiser/ organisation, to account for your attendance. This will not affect your future ability to volunteer again. "
     },
     {
         "id": 3,
@@ -26,8 +26,8 @@
     {
         "id": 5,
         "category": "Volunteer",
-        "question": "Is there an age limit for volunteering?",
-        "answer": "No! Any one can volunteer. For volunteers aged 12 and below, we require the presence of a parent/guardian."
+        "question": "What is the commitment level for volunteering?",
+        "answer": "The commitment level varies for different openings, be sure to read the details carefully."
     },
     {
         "id": 6,
@@ -94,18 +94,5 @@
         "category": "Volunteer",
         "question": "Why should I volunteer?",
         "answer": "Volunteering can provide a healthy boost to your self-confidence, self-esteem, and life satisfaction. You are doing good for others and the community, which provides a natural sense of accomplishment. Your role as a volunteer can also give you a sense of pride and identity."
-    },
-    {
-        "id": 17,
-        "category": "Volunteer",
-        "question": "What is the commitment level?",
-        "answer": "The commitment level varies for different openings, be sure to read the details carefully."
-    },
-    {
-        "id": 18,
-        "category": "Volunteer",
-        "question": "What should I do if I fall sick before the start of volunteering?",
-        "answer": "Please inform the respective organiser/ organisation, to account for your attendance. This will not affect your future ability to volunteer again. "
     }
-
 ]
