@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "category": "Volunteer",
+        "question": "What is a volunteer?",
+        "answer": "A volunteer is someone who does something that is not an obligation. Volunteers play an important role in community building and uplifting the well-being of society."
+    },
+    {
+        "id": 2,
+        "category": "Volunteer",
+        "question": "What should I do to seem more attractive to the welfare organisation?",
+        "answer": "For each of the openings, there will be skills that are required. It is recommended that you apply for an opening that you possess the skills for. Not to worry, you can always apply for an opening, what's more important is that you're willing to step out of your comfort zone and learn new things!"
+    },
+    {
+        "id": 3,
+        "category": "Volunteer",
+        "question": "I'm interested in volunteering. How do I apply?",
+        "answer": "<ol><li>Create an account. </li><li>Click on the “Openings” tab. </li><li>Browse the existing listings and click on whichever interests you. </li><li>On the individual listings page, you can click “Apply”.</li></ol>"
+    },
+    {
+        "id": 4,
+        "category": "Volunteer",
+        "question": "What do I need to do to be a volunteer?",
+        "answer": "All you have to do is create an account!"
+    },
+    {
+        "id": 5,
+        "category": "Volunteer",
+        "question": "Is there an age limit for volunteering?",
+        "answer": "No! Any one can volunteer. For volunteers aged 12 and below, we require the presence of a parent/guardian."
+    },
+    {
+        "id": 6,
+        "category": "Organisation",
+        "question": "Is it free to upload openings on this website?",
+        "answer": "Yes, all you need is to create an organisation account! Once that's done, click on the 'Organisations' tab and then click on the 'Create' button. You can then upload your openings."
+    },
+    {
+        "id": 7,
+        "category": "Organisation",
+        "question": "What information do I need when I create an opening?",
+        "answer": "You need the title, location, duration, description and relevant skills."
+    },
+    {
+        "id": 8,
+        "category": "Organisation",
+        "question": "How does this website benefit me?",
+        "answer": "You can see the profile of volunteers who apply for the opening. With that, you can see if they have any past achievements that could be helpful."
+    },
+    {
+        "id": 9,
+        "category": "Organisation",
+        "question": "How do I make sure that those who applied fit the role?",
+        "answer": "For each of the openings you create, you can add the skills required. When volunteers apply for the job, you can see the skills that they offer before deciding whether to contact them!"
+    },
+    {
+        "id": 10,
+        "category": "Organisation",
+        "question": "Is there a limit on the number of openings I can post?",
+        "answer": "No, it is up to you how many you want to list! "
+    },
+    {
+        "id": 11,
+        "category": "Website",
+        "question": "How do I create an account?",
+        "answer": "Check out the 'profile' tab. There you can create an account."
+    },
+    {
+        "id": 12,
+        "category": "Website",
+        "question": "Can I trust this website?",
+        "answer": "Yes."
+    },
+    {
+        "id": 13,
+        "category": "Website",
+        "question": "Where can I donate?",
+        "answer": "We do not have donating services at the moment, but feel free to seek any of our organisations to ask about their donation schemes."
+    },
+    {
+        "id": 14,
+        "category": "Website",
+        "question": "Is this website free?",
+        "answer": "Yes it is."
+    },
+    {
+        "id": 15,
+        "category": "Website",
+        "question": "How does this FAQ work?",
+        "answer": "We use NLP to classify your question(s)."
+    },
+    {
+        "id": 16,
+        "category": "Volunteer",
+        "question": "Why should I volunteer?",
+        "answer": "Volunteering can provide a healthy boost to your self-confidence, self-esteem, and life satisfaction. You are doing good for others and the community, which provides a natural sense of accomplishment. Your role as a volunteer can also give you a sense of pride and identity."
+    },
+    {
+        "id": 17,
+        "category": "Volunteer",
+        "question": "What is the commitment level?",
+        "answer": "The commitment level varies for different openings, be sure to read the details carefully."
+    },
+    {
+        "id": 18,
+        "category": "Volunteer",
+        "question": "What should I do if I fall sick before the start of volunteering?",
+        "answer": "Please inform the respective organiser/ organisation, to account for your attendance. This will not affect your future ability to volunteer again. "
+    }
+
+]

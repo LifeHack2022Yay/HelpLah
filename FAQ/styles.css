@@ -1,0 +1,69 @@
+.body {
+    position: relative;
+    width: 100vw;
+    background: linear-gradient(114.8deg, #87A1DC 18.42%, #FFA3BE 95.78%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+
+#body-content {
+    padding: 0% 10%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#searchbar {
+    border-radius: 20px;
+    height: 5vh;
+    width: 80vw;
+    background-color: rgba(255, 255, 255, 0.75);
+    border: none;
+    display: flex;
+}
+
+#searchinput, #searchbutton, #clearbutton {
+    padding-left: 2vw;
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+#header {
+    margin-left: 10%;
+    padding: 1vw 0vw;
+    font-family: cursive;
+}
+
+#question {
+    margin: 2vw 10vw;
+    padding: 4%;
+    border-radius: 20px;
+}
+
+#loading-spinner {
+    display: none;
+    margin-right: 5px;
+}
+
+/* CSS adapted  from w3 schools*/ 
+.loader {
+    border: 16px solid #ffffff;
+    border-top: 16px solid #000000;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
