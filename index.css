@@ -1,5 +1,9 @@
 body {
     background: linear-gradient(114.8deg, #87a1dc 18.42%, #ffa3be 95.78%), #ffffff;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    overflow-x: hidden;
 }
 
 .cover-section {
@@ -84,16 +88,33 @@ body {
     padding: 0% 5%;
 }
 
-.yellow-button {
+.text-button {
     width: 284px;
     height: 69px;
-    background: #f7ffb2;
     border: none;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 24px;
     font-size: 22px;
 }
 
-.yellow-button:hover {
+.text-button:hover {
     opacity: 0.4;
+}
+
+.help {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+    padding: 5%;
+}
+
+.yellow {
+    background: #f7ffb2;
+}
+
+.purple {
+    background: #87A1DC;
+    color: white;
 }
