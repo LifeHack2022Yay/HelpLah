@@ -39,15 +39,15 @@
       referrerpolicy="no-referrer"
     />
 
-    <link rel="icon" href="../assets/images/Logo.png" />
+    <link rel="icon" href="../Assets/Images/Logo.png" />
     <link rel="stylesheet" href="./DescriptionSummary.css" />
     <title>HelpLah</title>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg sticky-top  navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark">
       <a class="navbar-brand" href="#">
         <img
-          src="./Assets/Images/logo.png"
+          src="../Assets/Images/logo.png"
           width="30"
           height="30"
           class="d-inline-block align-top"
@@ -76,23 +76,39 @@
       </div>
     </nav>
 
-
     <div class="main-area">
       <h1 class="title-text">Issue Summary</h1>
 
-      <p class="subtitle-text">
-        Get a summarizied version of the issue.
-      </p>
+      <p class="subtitle-text">Get a summarizied version of the issue.</p>
       <div class="input-section">
+        <p class="input-label">Problem Statement</p>
+        <details class="input-label">
+          <summary>Example</summary>
+          <p>
+Problem Statement: Reduce waste in schools by using reusables and only ordering what is needed.<br>
+Topic: Environment<br>
+Keywords: School, reuse, waste<br>
+Solution: In schools, we can cut down on waste production by using reusables. This includes refillable soap dispensers and the cutlery used in the school canteens. Also, avoid over-catering food and drinks for school activities and events.
+
+          </p>
+        </details>
+        <br>
         <div class="center">
-          <textarea id="text-input" nae="text-input" rows="12" placeholder="-- Enter your problem here --"></textarea>
+          <textarea
+            id="text-input"
+            nae="text-input"
+            rows="12"
+            placeholder="-- Enter your problem here --"
+          ></textarea>
         </div>
+        <p class="input-label">Topic</p>
+        <input type="text" id="topic-input" class="input-yay" name="topic-input" placeholder="Example: Environment" />
+        <p class="input-label">Keywords</p>
+        <input type="text" id="keyword-input" class="input-yay" name="statement-input" placeholder="Example: Benefits, waste, reduce" />
+        
 
         <div class="generate-btn-section">
-          <div
-              id="loading-spinner"
-              class="loader"
-            ></div>
+          <div id="loading-spinner" class="loader"></div>
           <button
             type="button"
             class="btn btn-dark button"
@@ -101,15 +117,18 @@
             Summarize
           </button>
         </div>
-        <p class="output-label">Output</p>
+        <p class="output-label">Output Solution</p>
 
         <div class="center output-section">
           <div class="output-text-section">
-            <p id="output-text">
-              This is where the output will be displayed.
-            </p>
-            <i class="fa-solid fa-copy copy-btn" onclick="copyOutput()" data-toggle="tooltip" data-placement="top" title="Copy to clipboard"></i>
-
+            <p id="output-text">This is where the output will be displayed.</p>
+            <i
+              class="fa-solid fa-copy copy-btn"
+              onclick="copyOutput()"
+              data-toggle="tooltip"
+              data-placement="top"
+              title="Copy to clipboard"
+            ></i>
           </div>
         </div>
       </div>

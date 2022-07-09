@@ -53,7 +53,7 @@ body {
     overflow-x: hidden;
     background-color: #f5f5f5;
     border-radius: 10px;
-    box-shadow: 0 20px 20px -20px #000000;
+    box-shadow: 0 20px 20px -20px #00000055;
 }
 
 .output-text-section {
@@ -68,7 +68,7 @@ body {
     overflow-x: hidden;
     background-color: #f5f5f5;
     border-radius: 10px;
-    box-shadow: 0 20px 20px -20px #000000;
+    box-shadow: 0 20px 20px -20px #00000055;
     margin-top: 10px;
 
     display: flex;
@@ -143,4 +143,21 @@ body {
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
+}
+
+.input-label {
+  text-align: left;
+  text-overflow: wrap;
+  padding: 0px 0px 0px 40px;
+  margin-top: 10px;
+}
+
+.input-yay{
+  margin-left: 50px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0px 15px 20px #5555552f;
+  height: 35px;
+  width: 300px;
+  padding-left: 10px
 }
