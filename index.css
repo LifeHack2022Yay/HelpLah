@@ -33,6 +33,7 @@
     padding: 10px;
     text-align: center;
     font-size: 34px;
+    font-family: 'Roboto', sans-serif;
 }
 
 @media (max-width: 576px) {
