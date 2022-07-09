@@ -1,4 +1,4 @@
-body {
+.body {
     background: linear-gradient(114.8deg, #87a1dc 18.42%, #ffa3be 95.78%), #ffffff;
     margin: 0;
     padding: 0;
@@ -26,12 +26,14 @@ body {
     font-size: 100px;
     text-overflow: wrap;
     text-align: center;
+    font-family: cursive;
 }
 
 .subtitle-text {
     padding: 10px;
     text-align: center;
     font-size: 34px;
+    font-family: 'Roboto', sans-serif;
 }
 
 @media (max-width: 576px) {
