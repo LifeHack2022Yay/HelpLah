@@ -13,6 +13,9 @@ Want an opportunity to give back to the community? Come join our mission and Hel
 ![Navbar](./Assets/Images/readme-navbar.png)
 3. Have fun!
 
+## Other Website features
+[Figma High Fidelity Prototype](https://www.figma.com/proto/bbOyPBJmiZIZmXS501D8ch/HelpLah!?node-id=2%3A7&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A7)
+
 ## Tutorials/Resources/Credits
 * [Fancy Button](https://codepen.io/seme332/pen/reJOwo)
 * images gotten from unsplash and canva
