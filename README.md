@@ -19,3 +19,6 @@ Want an opportunity to give back to the community? Come join our mission and Hel
 ## Tutorials/Resources/Credits
 * [Fancy Button](https://codepen.io/seme332/pen/reJOwo)
 * images gotten from unsplash and canva
+
+![image](https://user-images.githubusercontent.com/53657436/178130667-62763a84-1a75-433d-9ac5-0a2bebc16926.png)
+![image](https://user-images.githubusercontent.com/53657436/178130672-3dee8269-a192-4d76-a0d3-7c344bfe1915.png)
