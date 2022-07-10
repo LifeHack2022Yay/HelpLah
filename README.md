@@ -8,8 +8,9 @@ Want an opportunity to give back to the community? Come join our mission and Hel
 > - Solution Generator
 > - FAQ 
 
-1.  Head over to the [website]()
+1.  Head over to the [website](https://lifehack2022yay.github.io/HelpLah/)
 2.  From the home page, you will see a navigation bar at the top with shortcuts to different pages. The links that work are "Home", "Solution Generator" and "FAQ".
+![Navbar](./Assets/Images/readme-navbar.png)
 3. Have fun!
 
 ## Tutorials/Resources/Credits
