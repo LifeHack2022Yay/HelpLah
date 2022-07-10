@@ -13,6 +13,20 @@ Want an opportunity to give back to the community? Come join our mission and Hel
 ![Navbar](./Assets/Images/readme-navbar.png)
 3. Have fun!
 
+<hr/>
+
+### Sample outputs from the solution generator
+:exclamation: Disclaimer: The solution generator may sometimes give strange results, and sometimes unique and unorthrodox solutions, depends on the NLP model lol
+
+* Reduce plastic waste
+![solution 1](./Assets/Images/solution1.png)
+
+* Reduce food waste
+![solution 2](./Assets/Images/solution2.jpg)
+
+
+<hr/>
+
 ## Tutorials/Resources/Credits
 * [Fancy Button](https://codepen.io/seme332/pen/reJOwo)
 * images gotten from unsplash and canva
